@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-groq===0.1.9
+langchain-core
+python-dotenv
+numpy
+scikit-learn
+numpy
+streamlit
+chromadb
+bs4
