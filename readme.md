@@ -218,5 +218,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <p align="center">
-  Developed with ❤️ by [Your Name/Company]
+  Developed with ❤️ by Chaitanya Talathi
 </p>
